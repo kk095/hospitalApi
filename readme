@@ -1,0 +1,19 @@
+# It is an Ecommerce API
+
+## Use this link to fetch data -: https://eccommerceapi.herokuapp.com/
+
+### to fetch data use : POST method -:
+
+## https://eccommerceapi.herokuapp.com/api/v1/doctors/register
+
+### to create data use : POST method -:
+
+## https://eccommerceapi.herokuapp.com/api/v1/products/create/
+
+### to delete data use : DELETE method -:
+
+## https://eccommerceapi.herokuapp.com/api/v1/products/:id/
+
+### to update data use : POST method -:
+
+## https://eccommerceapi.herokuapp.com/api/v1/products/:id/update_quantity/?number=<nummber>
